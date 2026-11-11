@@ -18,6 +18,7 @@ Python (3.10+, no dependencies) calculations for Israeli mortgages under Bank of
 
 ```bash
 python3 example.py
+python3 worked_examples.py   # step-by-step calculations, see WORKED_EXAMPLES.md
 python3 -m unittest discover -s tests -t .
 ```
 
